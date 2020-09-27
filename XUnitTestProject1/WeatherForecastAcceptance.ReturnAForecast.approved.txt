@@ -1,0 +1,27 @@
+[
+  {
+    "temperatureC": 1,
+    "temperatureF": 33,
+    "summary": "Bracing"
+  },
+  {
+    "temperatureC": 2,
+    "temperatureF": 35,
+    "summary": "Warm"
+  },
+  {
+    "temperatureC": 3,
+    "temperatureF": 37,
+    "summary": "Scorching"
+  },
+  {
+    "temperatureC": 4,
+    "temperatureF": 39,
+    "summary": "Chilly"
+  },
+  {
+    "temperatureC": 5,
+    "temperatureF": 40,
+    "summary": "Mild"
+  }
+]
